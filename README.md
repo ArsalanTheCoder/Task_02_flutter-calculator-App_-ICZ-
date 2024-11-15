@@ -1,4 +1,4 @@
-# second_task_calculator_app
+# Calculator_app
 
 A new Flutter project.
 
