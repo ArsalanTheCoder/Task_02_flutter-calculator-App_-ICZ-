@@ -1,20 +1,49 @@
-# Calculator_app
+# 🧮 Calculator App  
 
-A new Flutter project.
+A simple and functional **Calculator App** built with **Flutter**.  
+This app allows users to perform basic arithmetic operations with a clean and user-friendly interface.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features  
+- ➕ Addition, ➖ Subtraction, ✖️ Multiplication, ➗ Division  
+- 📱 Simple and responsive UI  
+- 🎨 Light mode & Dark mode support (if added)  
+- ⚡ Fast and efficient calculations  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 Screenshot  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/172c1719-9d52-481c-9d5d-585407b86db9" width="300" alt="Calculator App Screenshot">
+</p>
 
+---
 
-![Calculator App Screenshot](https://github.com/user-attachments/assets/172c1719-9d52-481c-9d5d-585407b86db9)
+## 🛠️ Tech Stack  
+- **Framework:** Flutter  
+- **Language:** Dart  
 
+---
+
+## 🏁 Getting Started  
+
+Follow these steps to run the app locally:  
+
+### Prerequisites  
+Make sure you have Flutter installed → [Install Flutter](https://docs.flutter.dev/get-started/install)  
+
+### Installation  
+```bash
+# Clone the repository
+git clone https://github.com/your-username/Calculator_app.git  
+
+# Navigate into the project directory
+cd Calculator_app  
+
+# Get all dependencies
+flutter pub get  
+
+# Run the app
+flutter run  
